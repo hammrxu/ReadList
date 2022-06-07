@@ -25,3 +25,7 @@ Advanced operators
 |An article that is associated with a specific index keyword|keyword:|keyword:readbyte|Topics that are associated with the "readbyte" index keyword.|
 
 
+# Search Not in VSCode
+
+1. [Regular expression metacharacters](https://help.relativity.com/RelativityOne/Content/Relativity/Regular_expressions/Searching_with_regular_expressions.htm)
+2. [Regex Search Explore](https://regexr.com/)
