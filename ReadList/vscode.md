@@ -1,8 +1,8 @@
 # Search in VSCode:
 
-1. :green-heart:Find in Selection in VSCode: ctrl+f start search, enter keywords, defaut all results selected, after click the third icon(three solid line icon), and drag the area for fine search, done.
+### 1. :green-heart:Find in Selection in VSCode: ctrl+f start search, enter keywords, defaut all results selected, after click the third icon(three solid line icon), and drag the area for fine search, done.
 
-2. :green-heart:Advanced Search in VSCode: By using [search expressions](https://docs.microsoft.com/en-us/visualstudio/help-viewer/logical-operators-search-expressions?view=vs-2022): 
+### 2. :green-heart:Advanced Search in VSCode: By using [search expressions](https://docs.microsoft.com/en-us/visualstudio/help-viewer/logical-operators-search-expressions?view=vs-2022): 
 
 However, Applies to: :heavy_check_mark:Visual Studio :x:Visual Studio for Mac
 
