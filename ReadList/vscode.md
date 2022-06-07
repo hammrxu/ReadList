@@ -28,4 +28,4 @@ Advanced operators
 # Search Not in VSCode
 
 1. [Regular expression metacharacters](https://help.relativity.com/RelativityOne/Content/Relativity/Regular_expressions/Searching_with_regular_expressions.htm)
-2. [Regex Search Explore](https://regexr.com/)
+2. [Regex Search Explore](https://regexr.com/) 💥
