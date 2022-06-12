@@ -1,0 +1,11 @@
+1. [JavaScript Template Literals](https://www.w3schools.com/js/js_string_templates.asp)
+
+    Template Literals use back-ticks (``) rather than the quotes ("") to define a string:
+
+    With template literals, you can use both single and double quotes inside a string:
+
+    Template literals allows multiline strings:
+
+    Template literals provide an easy way to interpolate variables and expressions into strings.
+
+    The syntax is: ${...}
